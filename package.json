@@ -1,0 +1,30 @@
+{
+  "name": "anthonyjones-mode",
+  "version": "1.0.0",
+  "description": "A Node.js module for quantum computing utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonyjones8161567/anthonyjones-mode"
+  },
+  "dependencies": {
+	  "carolgonzalez": "1.0.0",
+"vl75": "1.0.0",
+"tobogunbar": "1.0.0",
+"marikovmailbory": "1.0.0",
+"ruththompson-tools": "1.0.0",
+"filatovmark": "1.0.0",
+"func-pp06": "1.0.0",
+    "lodash": "^4.17.21",
+    "qiskit": "^0.7.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyjones8161567/anthonyjones-mode/issues"
+  },
+  "homepage": "https://github.com/anthonyjones8161567/anthonyjones-mode#readme"
+}
